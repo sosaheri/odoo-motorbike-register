@@ -11,10 +11,10 @@
     'depends': ['base'],
     'data': [
         'security/ir.model.access.csv',
-        'views/views.xml'
+        'data/data.xml',
     ],
     'demo': [
-        'demo/demo.xml',
+        'data/demo.xml',
     ],
     'application': True,
 }
