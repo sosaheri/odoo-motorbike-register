@@ -30,5 +30,6 @@
             <field name="current_mileage">23250</field>
             <field name="date_registry">2023-09-15</field>
         </record>
+
     </data>
 </odoo>

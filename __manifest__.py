@@ -10,6 +10,7 @@
     'version': '0.1',
     'depends': ['base'],
     'data': [
+        'security/hs_motorcycle_registry_groups.xml',
         'security/ir.model.access.csv',
         'data/data.xml',
     ],
